@@ -1,2 +1,3 @@
-2/3/2020 11:58PM
-Bug fix: Helicopter visibility
+2/10/2020 1:31PM
+Bug fix: None
+Feature added: Flight plan uplink
