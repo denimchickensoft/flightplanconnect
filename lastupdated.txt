@@ -1,4 +1,4 @@
-2/19/2020 4:23PM
-Bug fix: performance overhaul
-Feature added: sync fully functional both ways
+2/27/2020 6:19PM
+Bug fix: minor performance
+Last Feature added: sync fully functional both ways
 Remarks: possibly close to release version
