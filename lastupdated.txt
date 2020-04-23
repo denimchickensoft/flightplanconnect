@@ -1,4 +1,4 @@
-2/27/2020 6:19PM
-Bug fix: minor performance
-Last Feature added: sync fully functional both ways
-Remarks: possibly close to release version
+4/22/2020 8:12PM EDT
+Bug fix: Windows 7 compatibility, login/metar issues
+Last Feature added: login simplification
+Remarks: stand-alone version deprecated/removed, version 2 coming soon
