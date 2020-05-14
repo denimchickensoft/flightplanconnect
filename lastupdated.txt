@@ -1,4 +1,4 @@
-4/22/2020 8:12PM EDT
-Bug fix: Windows 7 compatibility, login/metar issues
-Last Feature added: login simplification
+5/13/2020 11:10PM EDT
+Bug fix: strips migration
+Last Feature added: login issues
 Remarks: stand-alone version deprecated/removed, version 2 coming soon
