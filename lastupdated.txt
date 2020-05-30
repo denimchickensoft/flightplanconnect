@@ -1,4 +1,4 @@
-5/13/2020 11:10PM EDT
-Bug fix: strips migration
+5/3020 2:15 AM
+Bug fix: new version
 Last Feature added: login issues
 Remarks: stand-alone version deprecated/removed, version 2 coming soon
